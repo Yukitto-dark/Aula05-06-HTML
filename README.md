@@ -1,6 +1,33 @@
 # Aula05-06-HTML
 Trabalho utilizando imagens e links
 
+
+<!-- Aula05 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Morro do moreno</p>
+    <img src="./img/transferir (1).jpg" alt="Morro do Moreno">
+    <p>Farol</p>
+    <img src="./img/transferir (2).jpg" alt="Farol">
+    <p>Fazenda</p>
+    <img src="./img/transferir (3).jpg" alt="Fazenda">
+    <p>Covento</p>
+    <img src="./img/transferir.jpg" alt="Covento">
+    <p>Seria</p>
+    <img src="./img/transferir (4).jpg" alt="Sereia">
+</body>
+</html>
+
+
+
+<!-- Aula06 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +52,4 @@ Trabalho utilizando imagens e links
 </map>
 
 </head>
-<body>
-    
-</body>
 </html>
